@@ -1,5 +1,5 @@
 <h1 align="center">
-    <video src="./assets/videos/logo.mp4" autoplay loop width="100%"></video>
+    <img width="100%" src="assets/gifs/logo.gif"/>
 </h1>
 <h3 align="center">🖥️ Nome do Repo</h3>
 <p align="center">Resumo do projeto</p>
@@ -12,14 +12,9 @@
 </p>
 
 <p align="center">
- <a href="#notebook_with_decorative_cover-stack">Stack</a> •
- <a href="#check_mark_button-funcionalidades">Funcionalidades</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#notebook_with_decorative_cover-stack">Stack</a> |
+ <a href="#white_check_mark-funcionalidades">Funcionalidades</a> |
 </p>
-
 
 ## :notebook_with_decorative_cover: Stack
 
