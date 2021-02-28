@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="100%" src="assets/gifs/logo.gif"/>
+    <img width="100%" src="https://i.imgur.com/6PxW4UH.gif"/>
 </h1>
 <h3 align="center">🖥️ Nome do Repo</h3>
 <p align="center">Resumo do projeto</p>
