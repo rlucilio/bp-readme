@@ -1,27 +1,63 @@
-<h1 align="center">
-    <img width="100%" src="https://i.imgur.com/6PxW4UH.gif"/>
+<h1  align="center">
+	<img  width="100%"  src="https://i.imgur.com/6PxW4UH.gif"/>
 </h1>
-<h3 align="center">🖥️ Nome do Repo</h3>
-<p align="center">Resumo do projeto</p>
 
-<p align="center">
-    <img src="https://img.shields.io/github/languages/count/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
-    <img src="https://img.shields.io/github/languages/top/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
-    <img src="https://img.shields.io/github/languages/code-size/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
-    <img src="https://img.shields.io/github/commit-activity/w/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+<h3  align="center">🖥️ Nome do Repo</h3>
+<p  align="center">Resumo do projeto</p>
+
+<p  align="center">
+	<img  src="https://img.shields.io/github/languages/count/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/top/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+</p>
+
+<p  align="center"> 
+	<a  href="#notebook_with_decorative_cover-stack">Stack</a> |
+	<a  href="#white_check_mark-funcionalidades">Funcionalidades</a> |
+	<a  href="#computer-como-rodar">Como rodar</a> |
+	<a  href="">Autor</a>
 </p>
 
 <p align="center">
- <a href="#notebook_with_decorative_cover-stack">Stack</a> |
- <a href="#white_check_mark-funcionalidades">Funcionalidades</a> |
+<img  src="https://i.pinimg.com/originals/08/75/96/087596fa8e76cdb3ef0a87a38f61611f.png"/>
 </p>
 
 ## :notebook_with_decorative_cover: Stack
-
+As seguintes ferramentas foram usadas na construção do projeto:
 <!--ts-->
-   * [Funcionalidades](http://google.com)
+- 📌 [TypeScript](https://www.typescriptlang.org/)
 <!--te-->
 
 ## :white_check_mark: Funcionalidades
 - [x] Terminar o repo do readme base
 - [ ] divulgar
+## :computer: Como Rodar
+### Pré-requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+### 🎲 Rodando o Back End (servidor)
+```bash
+# Clone este repositório
+$ git clone <https://github.com/repo>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd repo
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
+
+## :man_technologist: Autor
+Renan Lucilio 💚 Code
+
+Entre em contato!
+
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=renanlucilio@gmail.com)
+
