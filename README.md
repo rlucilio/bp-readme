@@ -16,7 +16,7 @@
 	<a  href="#notebook_with_decorative_cover-stack">Stack</a> |
 	<a  href="#white_check_mark-funcionalidades">Funcionalidades</a> |
 	<a  href="#computer-como-rodar">Como rodar</a> |
-	<a  href="">Autor</a>
+	<a  href="#man_technologist-autor">Autor</a>
 </p>
 
 <p align="center">
@@ -59,5 +59,5 @@ Renan Lucilio 💚 Code
 
 Entre em contato!
 
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=renanlucilio@gmail.com)
+![renanlucilio@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=renanlucilio@gmail.com)
 
