@@ -59,5 +59,8 @@ Renan Lucilio 💚 Code
 
 Entre em contato!
 
-![renanlucilio@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=renanlucilio@gmail.com)
+<a href="mailto:renanlucilio@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
