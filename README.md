@@ -55,7 +55,7 @@ $ npm run dev:server
 ```
 
 ## :man_technologist: Autor
-Renan Lucilio 💚 Code
+Renan Lucilio 💚  Code
 
 Entre em contato!
 
