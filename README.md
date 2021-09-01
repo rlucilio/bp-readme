@@ -1,5 +1,5 @@
 
-<!-- FAZER RENAME readme-markdown -> projeto github -->
+<!-- FAZER RENAME readme-base -> projeto github -->
 <h1  align="center">
 	<img  width="100%"  src="https://i.imgur.com/6PxW4UH.gif"/>
 </h1>
@@ -37,7 +37,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## :computer: Como Rodar
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/)
+
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 ### 🎲 Rodando
 ```bash
