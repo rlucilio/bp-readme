@@ -1,5 +1,5 @@
 
-## FAZER RENAME readme-markdown -> projeto github
+<!-- FAZER RENAME readme-markdown -> projeto github -->
 <h1  align="center">
 	<img  width="100%"  src="https://i.imgur.com/6PxW4UH.gif"/>
 </h1>
@@ -8,9 +8,9 @@
 <p  align="center">Resumo do projeto</p>
 
 <p  align="center">
-	<img  src="https://img.shields.io/github/languages/count/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/languages/top/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/count/rlucilio/readme-base?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/top/rlucilio/readme-base?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/readme-base?style=for-the-badge&logo=ghost&color=7ED957"/>
 	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/readme-markdown?style=for-the-badge&logo=ghost&color=7ED957"/>
 </p>
 
